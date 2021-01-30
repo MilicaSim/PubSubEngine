@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Documents\GitHub\PubSubEngine\WinSock_TCP_Blocking\Debug\Libraries.pdb
+C:\Users\Lenovo\Documents\GitHub\PubSubEngine\WinSock_TCP_Blocking\Libraries\Debug\Libraries.pdb
